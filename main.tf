@@ -4,4 +4,5 @@ resource "aws_instance" "tf-server" {
   tags = {
     Name = "TerraformServerInstance"
   }
+  
 }
