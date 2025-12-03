@@ -1,6 +1,4 @@
 
-
-```markdown
 # terraform-workspace
 
 - Add `backend.tf`
@@ -41,8 +39,3 @@ terraform init
 ```hcl
 terraform state pull > terraform.tfstate
 ```
-```
-
-✨ This version is properly structured for a README.md or documentation file. Each command and configuration is highlighted with the right code block type (`hcl` for Terraform config, `bash` for CLI commands).  
-
-Would you like me to also add a **step-by-step workflow section** (like numbered steps with explanations) so it’s interview/portfolio-ready? That way it doubles as both documentation and a guide.
